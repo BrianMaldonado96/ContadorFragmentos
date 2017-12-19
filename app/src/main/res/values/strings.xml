@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ContadorFragmentos</string>
+    <string name="etiqueta_conteo">Conteo</string>
+    <string name="boton_con">Contar</string>
+    <string name="boton_lim">Limpiar</string>
 </resources>
